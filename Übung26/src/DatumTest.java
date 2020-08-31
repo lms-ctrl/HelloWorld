@@ -26,7 +26,7 @@ public class DatumTest {
 			
 			switch (e) {
 			case 1:
-				System.out.println("Sonntag ist Frei");
+				System.out.println("Sonntag ist Frei!!!");
 				break;
 			case 2:
 				System.out.println("Montag");

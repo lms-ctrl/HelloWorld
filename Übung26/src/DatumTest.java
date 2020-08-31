@@ -38,7 +38,7 @@ public class DatumTest {
 				System.out.println("Mittwoch");
 				break;
 			case 5:
-				System.out.println("Donnerstag");
+				System.out.println("Mittwoch");
 				break;
 			case 6:
 				System.out.println("Freitag");
